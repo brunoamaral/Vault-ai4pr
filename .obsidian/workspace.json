@@ -11,13 +11,34 @@
             "id": "d7d2aabb6f4883d1",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "People.base",
-                "viewName": "People"
+                "file": "Markdown Cheatsheet.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-layout-grid",
-              "title": "People"
+              "icon": "lucide-file",
+              "title": "Markdown Cheatsheet"
+            }
+          },
+          {
+            "id": "a040fda5f8ed5f46",
+            "type": "leaf",
+            "state": {
+              "type": "home-tab-view",
+              "state": {},
+              "icon": "search",
+              "title": "Home tab"
             }
           }
         ]
@@ -221,8 +242,11 @@
   },
   "active": "d7d2aabb6f4883d1",
   "lastOpenFiles": [
-    "Templates/Person.md",
+    "README.md",
+    "Markdown Cheatsheet.md",
     "People.base",
+    "Clippings/Parabéns pelo trabalho.md",
+    "Templates/Person.md",
     "Persons/Bruno Amaral.md",
     "Files/Bruno-Amaral.png",
     "Persons/(1) Olgerta Asko  LinkedIn.md",
@@ -232,7 +256,6 @@
     "Literature Notes/@lopesMachineLearningApproach2023.md",
     "Templates/Organisation.md",
     "Templates/Meeting.md",
-    "README.md",
     "Literature Notes/Multiple Sclerosis Glossary.md",
     "Meetings/250913 Meeting Bruno e António.md",
     "Templates/Literature note.md",
@@ -248,8 +271,6 @@
     "Templates/Default.md",
     "Organisations/GregoryAi.md",
     "Academic/ESCS/Inteligência Artificial e Relações Públicas.md",
-    "Personal/MS/Health Journal.md",
-    "Academic/ESCS/Slides 1. apresentação e conceitos fundamentais.md",
     "Files/bruno-amaral_foto_mariabranches-20230424-GregoryMS-069.jpeg.jpg",
     "Files/notebook-pencil-laptop.jpeg",
     "Files/250px-thumbnail.jpg",

@@ -24,8 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Markdown Cheatsheet.md",
+      "timestamp": 1757881188870
+    },
+    {
+      "filepath": "README.md",
+      "timestamp": 1757881180287
+    },
+    {
       "filepath": "People.base",
-      "timestamp": 1757878094088
+      "timestamp": 1757879918380
     },
     {
       "filepath": "Templates/Person.md",
