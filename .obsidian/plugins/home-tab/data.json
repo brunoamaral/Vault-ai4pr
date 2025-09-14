@@ -24,8 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "People.base",
+      "timestamp": 1757878094088
+    },
+    {
       "filepath": "Templates/Person.md",
-      "timestamp": 1757871731239
+      "timestamp": 1757878084617
+    },
+    {
+      "filepath": "Persons/Bruno Amaral.md",
+      "timestamp": 1757877930101
     }
   ],
   "bookmarkedFileStore": [],

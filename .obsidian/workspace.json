@@ -11,10 +11,13 @@
             "id": "d7d2aabb6f4883d1",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "bases",
+              "state": {
+                "file": "People.base",
+                "viewName": "People"
+              },
+              "icon": "lucide-layout-grid",
+              "title": "People"
             }
           }
         ]
@@ -219,6 +222,9 @@
   "active": "d7d2aabb6f4883d1",
   "lastOpenFiles": [
     "Templates/Person.md",
+    "People.base",
+    "Persons/Bruno Amaral.md",
+    "Files/Bruno-Amaral.png",
     "Persons/(1) Olgerta Asko  LinkedIn.md",
     "Templates/Prompt.md",
     "Prompts/Prompt for Calendar.md",
@@ -241,11 +247,9 @@
     "Meetings",
     "Templates/Default.md",
     "Organisations/GregoryAi.md",
-    "Persons/Bruno Amaral.md",
     "Academic/ESCS/Inteligência Artificial e Relações Públicas.md",
     "Personal/MS/Health Journal.md",
     "Academic/ESCS/Slides 1. apresentação e conceitos fundamentais.md",
-    "Academic/ai-hed glossary/Artificial intelligence (AI).md",
     "Files/bruno-amaral_foto_mariabranches-20230424-GregoryMS-069.jpeg.jpg",
     "Files/notebook-pencil-laptop.jpeg",
     "Files/250px-thumbnail.jpg",
@@ -255,13 +259,11 @@
     "Files/250px-Civil_Rights_March_on_Washington%2C_D.C._%28Leaders_of_the_march_posing_in_front_of_the_statue.jpg",
     "Files/250px-Bayard_Rustin_mug_shot.jpg",
     "Files/harper_portrait_hu_353c77f08cae917e.webp",
-    "Files/Stylized,_sketch,_or_abstract_visuals.jpg",
     "media",
     "Files/Origami-Dragon-Instructions.pdf",
     "Files/Extended_Abstract_joao_nabais 1.pdf",
     "Files/Thesis_final_joao_nabais 1.pdf",
     "Files/Libro de Artemisa.pdf",
-    "People.base",
     "Files/Thesis_final_joao_nabais.pdf",
     "Files/Extended_Abstract_joao_nabais.pdf",
     "Untitled.canvas",

@@ -2,7 +2,7 @@
 role:
 specialty: AI
 work: "[[ESCS]]"
-email:
+email: mail@brunoamaral.eu
 kind: Person
 contexts:
   - publicrelations
@@ -16,4 +16,5 @@ tags:
   - public-relations
 LinkedIn: https://www.linkedin.com/in/brunoamaral/
 url: https://brunoamaral.eu/
+photo: Bruno-Amaral.png
 ---

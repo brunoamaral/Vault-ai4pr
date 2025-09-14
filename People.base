@@ -1,0 +1,11 @@
+views:
+  - type: cards
+    name: People
+    filters:
+      and:
+        - Kind == "Person"
+        - '!file.path.contains("Templates")'
+    sort:
+      - property: file.ctime
+        direction: DESC
+    image: note.photo
