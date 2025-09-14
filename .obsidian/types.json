@@ -1,0 +1,18 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Specialty": "text",
+    "date": "datetime",
+    "RSS": "checkbox",
+    "Draft": "checkbox",
+    "Kind": "text",
+    "report": "text",
+    "contexts": "multitext",
+    "report sent": "checkbox",
+    "cost": "number",
+    "currency": "text",
+    "selling price": "number"
+  }
+}

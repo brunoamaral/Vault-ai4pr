@@ -1,0 +1,56 @@
+{
+  "logoType": "none",
+  "logo": {
+    "lucideIcon": "",
+    "imagePath": "",
+    "imageLink": ""
+  },
+  "logoScale": 1.2,
+  "iconColorType": "default",
+  "wordmark": "ExoCortex",
+  "customFont": "interfaceFont",
+  "fontSize": "4em",
+  "fontColorType": "default",
+  "fontWeight": 600,
+  "maxResults": 5,
+  "showbookmarkedFiles": true,
+  "showRecentFiles": true,
+  "maxRecentFiles": 5,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "default",
+  "showShortcuts": true,
+  "markdownOnly": false,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "Templates/Person.md",
+      "timestamp": 1757870356130
+    },
+    {
+      "filepath": "Templates/Prompt.md",
+      "timestamp": 1757870277573
+    },
+    {
+      "filepath": "Prompts/Prompt for Calendar.md",
+      "timestamp": 1757870242813
+    },
+    {
+      "filepath": "Templates/Problem solving.md",
+      "timestamp": 1757870215091
+    },
+    {
+      "filepath": "Literature Notes/@lopesMachineLearningApproach2023.md",
+      "timestamp": 1757870213649
+    }
+  ],
+  "bookmarkedFileStore": [],
+  "searchDelay": 0,
+  "replaceNewTabs": true,
+  "newTabOnStart": true,
+  "closePreviousSessionTabs": true,
+  "omnisearch": false,
+  "showOmnisearchExcerpt": true,
+  "showStarredFiles": false,
+  "starredFileStore": []
+}

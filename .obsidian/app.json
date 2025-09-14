@@ -1,0 +1,24 @@
+{
+  "showFrontmatter": true,
+  "spellcheck": true,
+  "newFileLocation": "current",
+  "newFileFolderPath": "ExoCortex",
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "defaultViewMode": "source",
+  "attachmentFolderPath": "Files",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "useMarkdownLinks": true,
+  "livePreview": true,
+  "showUnsupportedFiles": true,
+  "showIndentGuide": false,
+  "showLineNumber": true,
+  "foldIndent": false,
+  "vimMode": false
+}

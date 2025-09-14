@@ -1,0 +1,8 @@
+{
+  "pinned": [
+    "file-explorer:move-file",
+    "insert-template",
+    "app:delete-file",
+    "properties:open-local"
+  ]
+}

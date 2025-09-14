@@ -1,0 +1,485 @@
+{
+  "workspaces": {
+    "overall graph": {
+      "main": {
+        "id": "70158c2224092745",
+        "type": "split",
+        "children": [
+          {
+            "id": "e985ef6747679c3f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "eff6d5fb0504220b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Academic/ESCS/Inteligência Artificial e Relações Públicas.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Inteligência Artificial e Relações Públicas"
+                },
+                "group": "2d1536d4fc95232e"
+              },
+              {
+                "id": "c2b511e18b85ca82",
+                "type": "leaf",
+                "state": {
+                  "type": "home-tab-view",
+                  "state": {},
+                  "icon": "search",
+                  "title": "Home tab"
+                }
+              },
+              {
+                "id": "d1aebe0868241f74",
+                "type": "leaf",
+                "state": {
+                  "type": "home-tab-view",
+                  "state": {},
+                  "icon": "search",
+                  "title": "Home tab"
+                }
+              }
+            ]
+          },
+          {
+            "id": "547f488827d61737",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "faa0307c95988f0b",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Academic/ESCS/Inteligência Artificial e Relações Públicas.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1,
+                      "close": false
+                    }
+                  },
+                  "icon": "lucide-git-fork",
+                  "title": "Graph of Inteligência Artificial e Relações Públicas"
+                },
+                "group": "2d1536d4fc95232e"
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "568c44b11e040cd8",
+        "type": "split",
+        "children": [
+          {
+            "id": "3882c7b6c328d502",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "95f8b45fbaacdb48",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "byModifiedTime",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "49b6e5d53a3723e0",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "ad8836998e7c3876",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 309.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "50e914c893526b95",
+        "type": "split",
+        "children": [
+          {
+            "id": "1391113475248d85",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ac9dc994603343fd",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "ExoCortex/Box of ideas.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for Box of ideas"
+                }
+              },
+              {
+                "id": "1b88af7972f68f48",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              },
+              {
+                "id": "7acca24c555376c5",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "357376a5f98778ab",
+                "type": "leaf",
+                "state": {
+                  "type": "ReferenceListView",
+                  "state": {},
+                  "icon": "quote-glyph",
+                  "title": "References"
+                }
+              },
+              {
+                "id": "dc5aa29601078f75",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "Work/Servers and websites/Paperless-ngx.md"
+                  },
+                  "icon": "lucide-info",
+                  "title": "File properties for Paperless-ngx"
+                }
+              },
+              {
+                "id": "07238710b984359e",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Work/Servers and websites/Paperless-ngx.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from Paperless-ngx"
+                }
+              },
+              {
+                "id": "2b45d232b4630d41",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Work/Servers and websites/Paperless-ngx.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of Paperless-ngx"
+                }
+              },
+              {
+                "id": "321112fd0f88917c",
+                "type": "leaf",
+                "state": {
+                  "type": "footnotes",
+                  "state": {
+                    "file": "Academic/ESCS/Inteligência Artificial e Relações Públicas.md"
+                  },
+                  "icon": "lucide-file-signature",
+                  "title": "Footnotes"
+                }
+              }
+            ],
+            "currentTab": 7
+          }
+        ],
+        "direction": "horizontal",
+        "width": 416.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "graph:Open graph view": false,
+          "bases:Create new base": false,
+          "switcher:Open quick switcher": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "workspaces:Manage workspace layouts": false,
+          "vault-explorer:Open vault explorer": false,
+          "omnisearch:Omnisearch": false,
+          "dashboard-navigator:Open dashboard navigator": false,
+          "templater-obsidian:Templater": false,
+          "random-note:Open random note": false
+        }
+      },
+      "active": "faa0307c95988f0b",
+      "mtime": "2025-09-13T13:04:00+01:00"
+    },
+    "MS graph 2": {
+      "main": {
+        "id": "70158c2224092745",
+        "type": "split",
+        "children": [
+          {
+            "id": "8d30a9ce8a1c04ee",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "93374721fad42efd",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "568c44b11e040cd8",
+        "type": "split",
+        "children": [
+          {
+            "id": "3882c7b6c328d502",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "95f8b45fbaacdb48",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "49b6e5d53a3723e0",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": true,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "620cfb6687488245",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "00e79826de17eb86",
+                "type": "leaf",
+                "state": {
+                  "type": "tagfolder-view",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 293.5
+      },
+      "right": {
+        "id": "50e914c893526b95",
+        "type": "split",
+        "children": [
+          {
+            "id": "1391113475248d85",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ac9dc994603343fd",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "07704ea7b2f47467",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "06890e7603fdd89a",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "useHierarchy": false
+                  }
+                }
+              },
+              {
+                "id": "f16cfea136dcc828",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {}
+                }
+              },
+              {
+                "id": "d98d4dc12819dfca",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency"
+                  }
+                }
+              },
+              {
+                "id": "f4e440a34809a010",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {}
+                }
+              },
+              {
+                "id": "ba5bb9b244ceed23",
+                "type": "leaf",
+                "state": {
+                  "type": "ReferenceListView",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 310.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "workspaces:Manage workspace layouts": false,
+          "obsidian-extract-pdf-highlights:PDF Highlights": false
+        }
+      },
+      "active": "93374721fad42efd"
+    }
+  },
+  "active": "overall graph"
+}

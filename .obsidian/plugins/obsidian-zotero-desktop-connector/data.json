@@ -1,0 +1,30 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "Literature Notes/",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "jpg",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [
+    {
+      "name": "APA",
+      "format": "formatted-citation",
+      "cslStyle": "apa"
+    }
+  ],
+  "exportFormats": [
+    {
+      "name": "Create Literature Note",
+      "outputPathTemplate": "Literature Notes/@{{citekey}}.md",
+      "imageOutputPathTemplate": "Files/{{citekey}}/",
+      "imageBaseNameTemplate": "image",
+      "templatePath": "Templates/Literature note.md",
+      "cslStyle": "apa"
+    }
+  ],
+  "citeSuggestTemplate": "[[{{citekey}}]]",
+  "openNoteAfterImport": true,
+  "whichNotesToOpenAfterImport": "first-imported-note",
+  "pdfExportImageOCR": true,
+  "pdfExportImageTesseractPath": "/opt/homebrew/bin/tesseract",
+  "pdfExportImageOCRLang": "en+pt"
+}

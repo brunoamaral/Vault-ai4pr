@@ -1,0 +1,294 @@
+{
+  "main": {
+    "id": "70158c2224092745",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ef6d64d427a84f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e0370bf067f98ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Person.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Person"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "568c44b11e040cd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "3882c7b6c328d502",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95f8b45fbaacdb48",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "49b6e5d53a3723e0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ad8836998e7c3876",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 309.5
+  },
+  "right": {
+    "id": "50e914c893526b95",
+    "type": "split",
+    "children": [
+      {
+        "id": "1391113475248d85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac9dc994603343fd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ExoCortex/Box of ideas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Box of ideas"
+            }
+          },
+          {
+            "id": "1b88af7972f68f48",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "7acca24c555376c5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "357376a5f98778ab",
+            "type": "leaf",
+            "state": {
+              "type": "ReferenceListView",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "ReferenceListView"
+            }
+          },
+          {
+            "id": "dc5aa29601078f75",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Work/Servers and websites/Paperless-ngx.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Paperless-ngx"
+            }
+          },
+          {
+            "id": "07238710b984359e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Work/Servers and websites/Paperless-ngx.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Paperless-ngx"
+            }
+          },
+          {
+            "id": "2b45d232b4630d41",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Work/Servers and websites/Paperless-ngx.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Paperless-ngx"
+            }
+          },
+          {
+            "id": "321112fd0f88917c",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "Academic/ESCS/Slides 1. apresentação e conceitos fundamentais.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 416.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "random-note:Open random note": false,
+      "vault-explorer:Open vault explorer": false,
+      "omnisearch:Omnisearch": false,
+      "dashboard-navigator:Open dashboard navigator": false,
+      "templater-obsidian:Templater": false,
+      "smart-connections:Open: Smart Chat": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Connections: Open random connection": true,
+      "slides-extended:Show slide preview": false
+    }
+  },
+  "active": "4e0370bf067f98ed",
+  "lastOpenFiles": [
+    "Templates/Prompt.md",
+    "Prompts/Prompt for Calendar.md",
+    "Templates/Problem solving.md",
+    "Literature Notes/@lopesMachineLearningApproach2023.md",
+    "Templates/Person.md",
+    "Templates/Organisation.md",
+    "Templates/Meeting.md",
+    "README.md",
+    "Literature Notes/Multiple Sclerosis Glossary.md",
+    "Meetings/250913 Meeting Bruno e António.md",
+    "Templates/Literature note.md",
+    "Academic/writing academic articles with markdown.md",
+    "Templates/Definition.md",
+    "Templates/Briefing Document.md",
+    "Clippings/Obsidian for Beginners Start HERE — How to Use the Obsidian App for Notes.md",
+    "Clippings",
+    "Academic/ai-hed glossary/ERP para a lisbon collective.md",
+    "Literature Notes/@GPT41PromptingGuide.md",
+    "Academic/ai-hed glossary/problem solving odoo.md",
+    "Meetings",
+    "Templates/Default.md",
+    "Organisations/GregoryAi.md",
+    "Persons/Bruno Amaral.md",
+    "Academic/ESCS/Inteligência Artificial e Relações Públicas.md",
+    "Personal/MS/Health Journal.md",
+    "Academic/ESCS/Slides 1. apresentação e conceitos fundamentais.md",
+    "Academic/ai-hed glossary/Artificial intelligence (AI).md",
+    "Academic/ESCS/bio bruno.md",
+    "Files/bruno-amaral_foto_mariabranches-20230424-GregoryMS-069.jpeg.jpg",
+    "Files/notebook-pencil-laptop.jpeg",
+    "Files/250px-thumbnail.jpg",
+    "Files/250px-Bayard_Rustin_NYWTS_3.jpg",
+    "Files/330px-Bayard_Rustin_NYWTS_2.jpg",
+    "Files/250px-Bayard_Rustin_before_demonstration_NYWTS.jpg",
+    "Files/250px-Civil_Rights_March_on_Washington%2C_D.C._%28Leaders_of_the_march_posing_in_front_of_the_statue.jpg",
+    "Files/250px-Bayard_Rustin_mug_shot.jpg",
+    "Files/harper_portrait_hu_353c77f08cae917e.webp",
+    "Files/Stylized,_sketch,_or_abstract_visuals.jpg",
+    "media",
+    "Files/Origami-Dragon-Instructions.pdf",
+    "Files/Extended_Abstract_joao_nabais 1.pdf",
+    "Files/Thesis_final_joao_nabais 1.pdf",
+    "Files/Libro de Artemisa.pdf",
+    "People.base",
+    "Files/Thesis_final_joao_nabais.pdf",
+    "Files/Extended_Abstract_joao_nabais.pdf",
+    "Untitled.canvas",
+    "ExoCortex/Untitled 1.canvas",
+    "ExoCortex/Untitled.canvas",
+    "MS/Untitled 1.canvas",
+    "MS/Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}

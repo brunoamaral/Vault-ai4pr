@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "2881aed31aba20a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d081250a647ccce5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56ae6594f29f5cdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Academic/ESCS/Inteligência Artificial e Relações Públicas.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Inteligência Artificial e Relações Públicas"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "54d8adc9e3eb611e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "06dd2e69234568ef",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "byModifiedTime",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "340979be4b1f67c4",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": true,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "byModifiedTime"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "615517d6cceb3470",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "85a33be5ca027e3a",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "61ff5d28f4b0be30",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "1a3a244eaba89b52",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e402ff4b7027722d",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Academic/ESCS/Inteligência Artificial e Relações Públicas.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": false
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "b43f0ece16be1327",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "40c975c43b4c8fd3",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "c8945216e7175fbc",
+        "type": "leaf",
+        "state": {
+          "type": "smart-connections-view",
+          "state": {},
+          "icon": "smart-connections",
+          "title": "Connections"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "smart-connections:Open: Smart Chat": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Connections: Open random connection": true,
+      "random-note:Open random note": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "omnisearch:Omnisearch": false,
+      "dashboard-navigator:Open dashboard navigator": false
+    }
+  },
+  "active": "56ae6594f29f5cdc",
+  "lastOpenFiles": [
+    "Academic/ESCS/Slides 1. apresentação e conceitos fundamentais.md",
+    "Academic/ESCS/Inteligência Artificial e Relações Públicas.md",
+    "Files/250px-thumbnail.jpg",
+    "Files/notebook-pencil-laptop.jpeg",
+    "Clippings/raffaella casolino  LinkedIn.md",
+    "Files/MAM-20230424-GregoryMS-069.jpeg.jpg",
+    "Files/250px-Civil_Rights_March_on_Washington%2C_D.C._%28Leaders_of_the_march_posing_in_front_of_the_statue.jpg",
+    "Files/250px-Bayard_Rustin_NYWTS_3.jpg",
+    "Academic/ESCS/RevealJS test minml.md",
+    "Clippings/Bayard Rustin.md",
+    "Files/250px-Bayard_Rustin_mug_shot.jpg",
+    "Files/250px-Bayard_Rustin_before_demonstration_NYWTS.jpg",
+    "Literature Notes/@bregmanMoralAmbitionStop2025.md",
+    "Academic/ESCS/bio bruno.md",
+    "Files/330px-Bayard_Rustin_NYWTS_2.jpg",
+    "Meetings/250904 João Nabais.md",
+    "Personal/MS/Health Journal.md",
+    "MS relevancy score.md",
+    "Organisations/Viva PR.md",
+    "LlamaIndex.md",
+    "IA nas Relações Públicas, da Estratégia de Comunicação à geração de output.md",
+    "Knot Lounge.md",
+    "Music.md",
+    "Templates/Person.md",
+    "Lena Meiering.md",
+    "João Nabais.md",
+    "This.md",
+    "Project Artemis.md",
+    "Persons/Carlos Capela.md",
+    "Caddy ghost.md",
+    "Ghost config.md",
+    "Files/s12974-025-03510-7.pdf",
+    "Scratch.md",
+    "Work/Novos valores share solutions.md",
+    "ExoCortex/Servers and websites/Abade Faria.md",
+    "ExoCortex/Servers and websites",
+    "ExoCortex",
+    "Files/WEF_Intelligent_Clinical_Trials_2024 (1).pdf"
+  ]
+}

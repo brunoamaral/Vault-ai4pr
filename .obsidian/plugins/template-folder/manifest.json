@@ -1,0 +1,10 @@
+{
+	"id": "template-folder",
+	"name": "Template Folder",
+	"version": "1.0.3",
+	"minAppVersion": "0.15.0",
+	"description": "Moves notes to a folder when applying a template.",
+	"author": "LucasOe",
+	"authorUrl": "https://github.com/LucasOe",
+	"isDesktopOnly": false
+}
