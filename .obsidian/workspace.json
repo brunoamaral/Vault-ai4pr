@@ -8,27 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4e0370bf067f98ed",
+            "id": "d7d2aabb6f4883d1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Person.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Person"
+              "type": "home-tab-view",
+              "state": {},
+              "icon": "search",
+              "title": "Home tab"
             }
           }
         ]
@@ -225,24 +211,19 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "random-note:Open random note": false,
-      "vault-explorer:Open vault explorer": false,
       "omnisearch:Omnisearch": false,
       "dashboard-navigator:Open dashboard navigator": false,
-      "templater-obsidian:Templater": false,
-      "smart-connections:Open: Smart Chat": false,
-      "smart-connections:Smart Connections: Open connections view": false,
-      "smart-connections:Smart Connections: Open random connection": true,
-      "slides-extended:Show slide preview": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "4e0370bf067f98ed",
+  "active": "d7d2aabb6f4883d1",
   "lastOpenFiles": [
+    "Templates/Person.md",
+    "Persons/(1) Olgerta Asko  LinkedIn.md",
     "Templates/Prompt.md",
     "Prompts/Prompt for Calendar.md",
     "Templates/Problem solving.md",
     "Literature Notes/@lopesMachineLearningApproach2023.md",
-    "Templates/Person.md",
     "Templates/Organisation.md",
     "Templates/Meeting.md",
     "README.md",
@@ -265,7 +246,6 @@
     "Personal/MS/Health Journal.md",
     "Academic/ESCS/Slides 1. apresentação e conceitos fundamentais.md",
     "Academic/ai-hed glossary/Artificial intelligence (AI).md",
-    "Academic/ESCS/bio bruno.md",
     "Files/bruno-amaral_foto_mariabranches-20230424-GregoryMS-069.jpeg.jpg",
     "Files/notebook-pencil-laptop.jpeg",
     "Files/250px-thumbnail.jpg",

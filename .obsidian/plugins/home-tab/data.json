@@ -7,7 +7,7 @@
   },
   "logoScale": 1.2,
   "iconColorType": "default",
-  "wordmark": "ExoCortex",
+  "wordmark": "Ai 4 PR",
   "customFont": "interfaceFont",
   "fontSize": "4em",
   "fontColorType": "default",
@@ -25,23 +25,7 @@
   "recentFilesStore": [
     {
       "filepath": "Templates/Person.md",
-      "timestamp": 1757870356130
-    },
-    {
-      "filepath": "Templates/Prompt.md",
-      "timestamp": 1757870277573
-    },
-    {
-      "filepath": "Prompts/Prompt for Calendar.md",
-      "timestamp": 1757870242813
-    },
-    {
-      "filepath": "Templates/Problem solving.md",
-      "timestamp": 1757870215091
-    },
-    {
-      "filepath": "Literature Notes/@lopesMachineLearningApproach2023.md",
-      "timestamp": 1757870213649
+      "timestamp": 1757871731239
     }
   ],
   "bookmarkedFileStore": [],
@@ -49,7 +33,7 @@
   "replaceNewTabs": true,
   "newTabOnStart": true,
   "closePreviousSessionTabs": true,
-  "omnisearch": false,
+  "omnisearch": true,
   "showOmnisearchExcerpt": true,
   "showStarredFiles": false,
   "starredFileStore": []
