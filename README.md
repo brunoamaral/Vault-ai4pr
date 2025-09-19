@@ -6,7 +6,7 @@ tags:
 1. Install the obsidian web clipper https://obsidian.md/clipper
 2. Watch video
 ![](https://www.youtube.com/watch?v=QgbLb6QCK88)
-3. Read https://2005-2025.brunoamaral.eu/post/using-obsidian-for-stakeholder-mapping/
+3. Read https://brunoamaral.eu/an-obsidian-kick-start-for-students/ and https://2005-2025.brunoamaral.eu/post/using-obsidian-for-stakeholder-mapping/
 
 ## Using this vault
 
