@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Literature Notes/@AIPublicRelations.md",
+      "timestamp": 1758292424190
+    },
+    {
+      "filepath": "Definitions/Adaptive learning.md",
+      "timestamp": 1758292393438
+    },
+    {
       "filepath": "Markdown Cheatsheet.md",
-      "timestamp": 1757881188870
+      "timestamp": 1758292349932
+    },
+    {
+      "filepath": "Persons/Bruno Amaral.md",
+      "timestamp": 1758292346308
     },
     {
       "filepath": "README.md",
       "timestamp": 1757881180287
-    },
-    {
-      "filepath": "People.base",
-      "timestamp": 1757879918380
-    },
-    {
-      "filepath": "Templates/Person.md",
-      "timestamp": 1757878084617
-    },
-    {
-      "filepath": "Persons/Bruno Amaral.md",
-      "timestamp": 1757877930101
     }
   ],
   "bookmarkedFileStore": [],
