@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "README.md",
+      "timestamp": 1758292565034
+    },
+    {
       "filepath": "Literature Notes/@AIPublicRelations.md",
       "timestamp": 1758292424190
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "Persons/Bruno Amaral.md",
       "timestamp": 1758292346308
-    },
-    {
-      "filepath": "README.md",
-      "timestamp": 1757881180287
     }
   ],
   "bookmarkedFileStore": [],
