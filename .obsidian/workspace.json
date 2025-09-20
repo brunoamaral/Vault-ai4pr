@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "bbb73ecddc143701",
+        "id": "57e19380840b586c",
         "type": "tabs",
         "children": [
           {
-            "id": "4dd14c122dabd055",
+            "id": "2f61576b192fdcff",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "Markdown Cheatsheet.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Markdown Cheatsheet"
             }
           }
         ]
@@ -74,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 247.5
   },
   "right": {
     "id": "50e914c893526b95",
@@ -216,38 +230,38 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4dd14c122dabd055",
+  "active": "95f8b45fbaacdb48",
   "lastOpenFiles": [
+    "Bases/People.base",
+    "Bases",
     "README.md",
-    "Literature Notes/@AIPublicRelations.md",
-    "Definitions/Adaptive learning.md",
     "Markdown Cheatsheet.md",
+    "Literature Notes/@amaralCommunicationStrategySolving2019.md",
+    "Clippings/Obsidian for Beginners Start HERE — How to Use the Obsidian App for Notes.md",
+    "Prompts/Prompt for Calendar.md",
+    "Organisations/GregoryAi.md",
     "Persons/Bruno Amaral.md",
-    "People.base",
+    "Literature Notes/@AIPublicRelations.md",
+    "Literature Notes/@AIBigData2021.md",
+    "Organisations/World Health Organization.md",
+    "Organisations/ESCS.md",
+    "Definitions/Artificial intelligence (AI).md",
+    "Definitions/Adaptive learning.md",
+    "Meetings/250913 Meeting Bruno e António.md",
+    "Persons/António Lopes.md",
+    "Meetings/António Lopes.md",
     "Clippings/Parabéns pelo trabalho.md",
     "Templates/Person.md",
     "Files/Bruno-Amaral.png",
     "Persons/(1) Olgerta Asko  LinkedIn.md",
     "Templates/Prompt.md",
-    "Prompts/Prompt for Calendar.md",
     "Templates/Problem solving.md",
     "Literature Notes/@lopesMachineLearningApproach2023.md",
     "Templates/Organisation.md",
     "Templates/Meeting.md",
     "Literature Notes/Multiple Sclerosis Glossary.md",
-    "Meetings/250913 Meeting Bruno e António.md",
-    "Templates/Literature note.md",
-    "Academic/writing academic articles with markdown.md",
-    "Templates/Definition.md",
-    "Templates/Briefing Document.md",
-    "Clippings/Obsidian for Beginners Start HERE — How to Use the Obsidian App for Notes.md",
     "Clippings",
-    "Academic/ai-hed glossary/ERP para a lisbon collective.md",
-    "Literature Notes/@GPT41PromptingGuide.md",
-    "Academic/ai-hed glossary/problem solving odoo.md",
     "Meetings",
-    "Templates/Default.md",
-    "Organisations/GregoryAi.md",
     "Files/bruno-amaral_foto_mariabranches-20230424-GregoryMS-069.jpeg.jpg",
     "Files/notebook-pencil-laptop.jpeg",
     "Files/250px-thumbnail.jpg",

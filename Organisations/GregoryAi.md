@@ -10,4 +10,4 @@ contexts:
 url:
 LinkedIn:
 ---
-Funded by [Bruno Amaral](Bruno%20Amaral.md) and [António Lopes](António%20Lopes)
+Founded by [Bruno Amaral](Bruno%20Amaral.md) and [António Lopes](António%20Lopes.md)

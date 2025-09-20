@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "[\"kind\":] -[\"kind\":Server] -[\"kind\":Website]",
   "showTags": false,
   "showAttachments": false,
@@ -29,7 +29,7 @@
       }
     },
     {
-      "query": "[\"role\":Patient]",
+      "query": "[\"kind\":Literature note]",
       "color": {
         "a": 1,
         "rgb": 6084188
@@ -57,17 +57,10 @@
       }
     },
     {
-      "query": "[\"kind\":Server]",
+      "query": "[\"kind\":Definition]",
       "color": {
         "a": 1,
-        "rgb": 1743104
-      }
-    },
-    {
-      "query": "[\"kind\":Website]",
-      "color": {
-        "a": 1,
-        "rgb": 14736466
+        "rgb": 183026
       }
     }
   ],
@@ -81,6 +74,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 194,
-  "scale": 0.21526558744436722,
-  "close": true
+  "scale": 0.6761049440146303,
+  "close": false
 }

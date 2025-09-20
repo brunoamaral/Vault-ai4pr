@@ -73,6 +73,18 @@
       "selectAppend": true,
       "selectPrepend": true,
       "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "kind",
+      "value": "bookmark",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "fb0b-7132",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
     }
   ]
 }
