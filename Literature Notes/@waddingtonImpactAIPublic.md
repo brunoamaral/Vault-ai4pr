@@ -1,8 +1,8 @@
 ---
 kind: Literature Note
 tags:
-  - PR
-  - publicrelations
+  - public-relations
+  - public-relations
 citekey: waddingtonImpactAIPublic
 status: unread
 dateread:

@@ -8,7 +8,7 @@ dateread:
 ---
 
 > [!Cite]
-> _AI in Public Relations: Benefits & Examples_. (n.d.). Cision. Retrieved January 22, 2024, from [https://www.cision.com/resources/articles/ai-in-pr-benefits-and-examples/](https://www.cision.com/resources/articles/ai-in-pr-benefits-and-examples/)
+> _[AI in Public Relations](AI%20in%20Public%20Relations.md): Benefits & Examples_. (n.d.). Cision. Retrieved January 22, 2024, from [https://www.cision.com/resources/articles/ai-in-pr-benefits-and-examples/](https://www.cision.com/resources/articles/ai-in-pr-benefits-and-examples/)
 
 > [!Abstract]
 > > Explore the transformative impact of AI in public relations. Uncover benefits and real-world examples shaping the future of communication strategies.

@@ -1,8 +1,6 @@
 ---
 kind: Literature Note
-tags:
-  - ai
-  - Gregory
+tags: artificial intelligence, machine learning, multiple-sclerosis, recommender systems, research information
 citekey: lopesMachineLearningApproach2023
 status: unread
 dateread:
@@ -34,7 +32,7 @@ dateread:
 
 ~
 
-> **Title**:: A machine learning approach for mapping and accelerating multiple sclerosis research
+> **Title**:: A machine learning approach for mapping and accelerating [multiple sclerosis](Multiple%20Sclerosis%20Glossary.md) research
 
 > **Year**:: 2023
 
@@ -54,14 +52,17 @@ dateread:
 
 > [!LINK]
 
-https://www.sciencedirect.com/science/article/pii/S1877050923004106
+>
 
+> [ScienceDirect Full Text PDF](file:///Users/brunoamaral/Zotero/storage/3MX3WQJ4/Lopes%20and%20Amaral%20-%202023%20-%20A%20machine%20learning%20approach%20for%20mapping%20and%20accele.pdf).
+
+  
 
 > [!Abstract]
 
 >
 
-> The medical field, as many others, is overwhelmed with the amount of research-related information available, such as journal papers, conference proceedings and clinical trials. The task of parsing through all this information to keep up to date with the most recent research findings on their area of expertise is especially difficult for practitioners who must also focus on their clinical duties. Recommender systems can help make decisions and provide relevant information on specific matters, such as for these clinical practitioners looking into which research to prioritize. In this paper, we describe the early work on a machine learning approach, which through an intelligent reinforcement learning approach, maps and recommends research information (papers and clinical trials) specifically for multiple sclerosis research. We tested and evaluated several different machine learning algorithms and present which one is the most promising in developing a complete and efficient model for recommending relevant multiple sclerosis research.
+> The medical field, as many others, is overwhelmed with the amount of research-related information available, such as journal papers, conference proceedings and [clinical trials](Clinical%20Trials%20for%20GregoryAi.md). The task of parsing through all this information to keep up to date with the most recent research findings on their area of expertise is especially difficult for practitioners who must also focus on their clinical duties. Recommender systems can help make decisions and provide relevant information on specific matters, such as for these clinical practitioners looking into which research to prioritize. In this paper, we describe the early work on a machine learning approach, which through an intelligent reinforcement learning approach, maps and recommends research information (papers and [clinical trials](Clinical%20Trials%20for%20GregoryAi.md)) specifically for multiple sclerosis research. We tested and evaluated several different machine learning algorithms and present which one is the most promising in developing a complete and efficient model for recommending relevant multiple sclerosis research.
 
 >.
 

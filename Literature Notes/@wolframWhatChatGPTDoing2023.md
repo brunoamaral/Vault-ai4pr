@@ -11,7 +11,7 @@ dateread:
 > Wolfram, S. (2023, February 14). _What Is ChatGPT Doing … and Why Does It Work?_ [https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 
 > [!Abstract]
-> > Stephen Wolfram explores the broader picture of what's going on inside ChatGPT and why it produces meaningful text. Discusses models, training neural nets, embeddings, tokens, transformers, language syntax.
+> > [Stephen Wolfram](Stephen%20Wolfram.md) explores the broader picture of what's going on inside ChatGPT and why it produces meaningful text. Discusses models, training neural nets, embeddings, tokens, transformers, language syntax.
 > 
 
 >[!Synth]

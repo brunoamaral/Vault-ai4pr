@@ -31,7 +31,7 @@ dateread:
 
 # Notes
 
-> Instructions on how to write an effective AI [Prompt](Definitions/Prompt.md)
+> Instructions on how to write an effective AI [Prompt](Templates/Prompt.md)
 
 # Annotations
 

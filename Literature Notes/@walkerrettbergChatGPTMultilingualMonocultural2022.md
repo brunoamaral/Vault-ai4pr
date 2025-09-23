@@ -11,7 +11,7 @@ url: https://jilltxt.net/right-now-chatgpt-is-multilingual-but-monocultural-but-
 > Walker Rettberg, J. (2022, December 6). ChatGPT is multilingual but monocultural, and it’s learning your values. _Jill/Txt_. [https://jilltxt.net/right-now-chatgpt-is-multilingual-but-monocultural-but-its-learning-your-values/](https://jilltxt.net/right-now-chatgpt-is-multilingual-but-monocultural-but-its-learning-your-values/)
 
 > [!Abstract]
-> > Like the rest of the internet, I’ve been playing with ChatGPT, the new AI chatbot released by OpenAI, and I’ve been fascinated by how much it does well and how it still gets a lot wrong…
+> > Like the rest of the internet, I’ve been playing with ChatGPT, the new AI chatbot released by [OpenAI](OpenAI.md), and I’ve been fascinated by how much it does well and how it still gets a lot wrong…
 > 
 
 >[!Synth]
