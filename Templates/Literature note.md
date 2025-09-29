@@ -1,6 +1,6 @@
 ---
 kind: Literature Note
-tags: {% if allTags -%}{{ allTags }}{% endif %}
+tags: [{% if tags and tags.length -%}{% for t in tags -%}{{ t.tag | replace(" ", "-") | lower }}{% if not loop.last %}, {% endif %}{%- endfor %}{%- endif %}]
 citekey: {{ citekey }}
 status: unread
 url: {{ url }}
