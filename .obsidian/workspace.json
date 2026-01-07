@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "57e19380840b586c",
+        "id": "adc98515fc4ffd38",
         "type": "tabs",
         "children": [
           {
-            "id": "2f61576b192fdcff",
+            "id": "da6ff6475126f3a5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Markdown Cheatsheet.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Markdown Cheatsheet"
+              "type": "home-tab-view",
+              "state": {},
+              "icon": "search",
+              "title": "Home tab"
             }
           }
         ]
@@ -230,12 +216,29 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "95f8b45fbaacdb48",
+  "active": "da6ff6475126f3a5",
   "lastOpenFiles": [
+    "README.md",
+    "Literature Notes/@nabaisUsingLargeLanguage2025.md",
+    "Literature Notes/@baumannLargeLanguageModel2025.md",
+    "Definitions/Shadow IT.md",
+    "Definitions/Self Hosted.md",
+    "Definitions/Retrieval Augmented Generation (RAG).md",
+    "Definitions/Prompt Structure.md",
+    "Definitions/prompt injection.md",
+    "Definitions/Model Context Protocol.md",
+    "Definitions/International Clinical Trials Registry Platform.md",
+    "Definitions/Hallucination.md",
+    "Definitions/Fine Tuning.md",
+    "Definitions/EU AI Act.md",
+    "Definitions/Deepfake.md",
+    "Definitions/Clinical Trials Information System.md",
+    "Definitions/autologous hematopoietic stem cell transplant.md",
+    "Definitions/API.md",
+    "Persons/António Lopes.md",
+    "Markdown Cheatsheet.md",
     "Bases/People.base",
     "Bases",
-    "README.md",
-    "Markdown Cheatsheet.md",
     "Literature Notes/@amaralCommunicationStrategySolving2019.md",
     "Clippings/Obsidian for Beginners Start HERE — How to Use the Obsidian App for Notes.md",
     "Prompts/Prompt for Calendar.md",
@@ -243,23 +246,7 @@
     "Persons/Bruno Amaral.md",
     "Literature Notes/@AIPublicRelations.md",
     "Literature Notes/@AIBigData2021.md",
-    "Organisations/World Health Organization.md",
-    "Organisations/ESCS.md",
-    "Definitions/Artificial intelligence (AI).md",
-    "Definitions/Adaptive learning.md",
-    "Meetings/250913 Meeting Bruno e António.md",
-    "Persons/António Lopes.md",
-    "Meetings/António Lopes.md",
-    "Clippings/Parabéns pelo trabalho.md",
-    "Templates/Person.md",
     "Files/Bruno-Amaral.png",
-    "Persons/(1) Olgerta Asko  LinkedIn.md",
-    "Templates/Prompt.md",
-    "Templates/Problem solving.md",
-    "Literature Notes/@lopesMachineLearningApproach2023.md",
-    "Templates/Organisation.md",
-    "Templates/Meeting.md",
-    "Literature Notes/Multiple Sclerosis Glossary.md",
     "Clippings",
     "Meetings",
     "Files/bruno-amaral_foto_mariabranches-20230424-GregoryMS-069.jpeg.jpg",
@@ -277,7 +264,6 @@
     "Files/Thesis_final_joao_nabais 1.pdf",
     "Files/Libro de Artemisa.pdf",
     "Files/Thesis_final_joao_nabais.pdf",
-    "Files/Extended_Abstract_joao_nabais.pdf",
     "Untitled.canvas",
     "ExoCortex/Untitled 1.canvas",
     "ExoCortex/Untitled.canvas",
